@@ -178,12 +178,6 @@ The selected product will be dispensed automatically.
 
 T. Manoj Kumar Reddy
 
-T. Sai Ganesh
-
-A. Nikhil
-
-S. K. Adil Suhan
-
 Department of Electronics and Communication Engineering
 
 SRM University-AP
